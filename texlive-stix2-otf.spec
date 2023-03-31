@@ -1,6 +1,6 @@
 Name:		texlive-stix2-otf
 Version:	58735
-Release:	1
+Release:	2
 Summary:	OpenType Unicode text and maths fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/stix2-otf
