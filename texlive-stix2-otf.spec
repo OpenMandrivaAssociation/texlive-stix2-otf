@@ -3,7 +3,7 @@ Version:	58735
 Release:	2
 Summary:	OpenType Unicode text and maths fonts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/stix2-otf
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/stix2-otf
 License:	ofl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/stix2-otf.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/stix2-otf.doc.r%{version}.tar.xz
